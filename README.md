@@ -110,7 +110,7 @@ Handles hostel and room management, booking periods, floor allocation, student r
 
 `Next.js` `Prisma` `PostgreSQL / Neon` `Role-Based Access Control` `Admin Dashboard`
 
-[`View Repository`](YOUR_REPOSITORY_URL) &nbsp;|&nbsp; [`Live Demo`](YOUR_DEMO_URL)
+[`View Repository`](https://github.com/Ran501/CST_Hostel_Booking_System) &nbsp;|&nbsp; [`Live Demo`](https://hostel.cst.edu.bt/login)
 
 </td>
 </tr>
