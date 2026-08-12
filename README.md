@@ -143,14 +143,13 @@ An intelligent monitoring system pairing a Raspberry Pi and camera module with a
 <tr>
 <td width="100%">
 
-### 📊&nbsp; ERP Analytics & AI Platform &nbsp;<sub>*(exploring)*</sub>
+### 🏠&nbsp; RUB AFM Booking System
 
-An in-progress concept for a platform that connects to ERP systems like **Odoo**, pulls in operational data, and turns it into analytics dashboards with AI-assisted insight — currently focused on understanding dynamic ERP connectivity.
+A full-stack hostel room booking and management platform for **RUB AFM**, providing students with a streamlined booking experience while enabling counselors and administrators to efficiently manage hostels, rooms, bookings, students, and reports through role-based dashboards.
 
-`ERP Integration` `Odoo` `Data Warehousing` `Analytics Dashboards` `AI Insights`
+`Next.js` `Prisma` `PostgreSQL` `RBAC` `Authentication` `Dashboard`
 
 [`View Repository`](YOUR_REPOSITORY_URL)
-
 </td>
 </tr>
 <tr>
