@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=E8C766)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=E8C766)](https://portfollio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8FD3F4)](https://www.linkedin.com/in/bijay-chhettri-ab118a322)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E8C766)](mailto:bijayjrchhetri@gmail.com)
 [![Bhutan](https://img.shields.io/badge/Based_in-Bhutan_🇧🇹-0D1117?style=for-the-badge)]()
