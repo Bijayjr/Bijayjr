@@ -25,6 +25,23 @@
 
 <br/>
 
+<!-- ASCII art divider — Druk, the Thunder Dragon of Bhutan -->
+<div align="center">
+
+```
+                                     _  ._. _  ,
+                              _.- ~ ` ' ' '   '  ~- .
+                           .-'      D R U K       '-.
+                          /     T H U N D E R   D R A G O N     \
+                         |    < >  < >   < >   < >  < >    |
+                         |         〈  build . ship . repeat  〉         |
+                          \                                     /
+                           `- . _                       _ . -'
+                                  ` ~ - . _ , _ . - ~ '
+```
+
+</div>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"></picture>
 
 ## &nbsp;🏔️&nbsp; About Me
@@ -43,6 +60,17 @@ I like projects with real constraints:
 I'm not chasing every framework — **I'm chasing the ones that let me ship something that works.**
 
 <br clear="right"/>
+
+```bash
+bijay@himalaya:~$ whoami
+> IT Engineering student, full-stack + AI/ML developer
+
+bijay@himalaya:~$ cat philosophy.txt
+> earn every layer, from schema to UI.
+
+bijay@himalaya:~$ ./ship.sh --project "next one"
+> Building... [########################......] 78%
+```
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"></picture>
 
@@ -245,12 +273,60 @@ A set of augmented-reality explorations combining Android and spatial computing 
 
 <br/>
 
+## &nbsp;🎧&nbsp; Live Widgets (Snake, Spotify, WakaTime)
+
+<details>
+<summary><b>🔌&nbsp; Not active yet — click to see 2-minute setup</b></summary>
+<br/>
+
+These add real animation and live data once connected. Each is a copy-paste setup with your own accounts — nothing below is wired up yet, so add them only after following the steps, otherwise the images will show broken.
+
+**1. Contribution snake — animates your commits into a snake crawling across the grid**
+```
+1. Create .github/workflows/snake.yml in this repo
+2. Add the action: Platane/snk@v3, with output committed to an "output" branch
+3. Once the action runs once, add this to your README:
+```
+```md
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bijayjr/bijayjr/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/bijayjr/bijayjr/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+```
+
+**2. Spotify "Now Playing" card**
+```
+1. Fork https://github.com/kittinan/spotify-github-profile
+2. Deploy it to Vercel and link your Spotify account
+3. Drop this into your README:
+```
+```md
+[![spotify](https://YOUR-DEPLOYED-APP.vercel.app/api/spotify)](https://open.spotify.com)
+```
+
+**3. WakaTime coding stats**
+```
+1. Install the WakaTime extension in VS Code
+2. Add this badge with your username:
+```
+```md
+![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)
+```
+
+</details>
+
+<br/>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"></picture>
 
 ## &nbsp;🪷&nbsp; Philosophy
 
 > Software is easy to *use* and hard to *earn* — every layer, from schema to UI, has to justify itself.
 > I build to understand, and I keep the parts that survive contact with a real problem.
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=E8C766&center=true&vCenter=true&width=600&lines=%22Simplicity+is+the+soul+of+efficiency.%22;%22Code+is+read+far+more+often+than+it%27s+written.%22;%22Ship+small%2C+ship+often%2C+ship+honest.%22" alt="quotes"/>
+</div>
 
 <br/>
 
@@ -269,7 +345,15 @@ A set of augmented-reality explorations combining Android and spatial computing 
 <br/>
 
 <div align="center">
+
+```
+     ✦          .          ✦            .
+          🐉  T A S H I   D E L E K  🐉
+     .          ✦          .          ✦
+```
+
 <sub>Building from the Himalayas, one system at a time. 🇧🇹</sub>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:14213D,70:1B2838,100:0D1117&height=110&section=footer" alt="footer"/>
