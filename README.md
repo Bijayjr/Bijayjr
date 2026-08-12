@@ -1,43 +1,50 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2838,100:0D1117&height=200&section=header&text=BIJAY%20CHHETTRI&fontSize=48&fontColor=E8C766&fontAlignY=38&desc=Building%20systems%20from%20the%20Himalayas&descAlignY=58&descSize=16&descColor=8FD3F4&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:14213D,70:1B2838,100:0D1117&height=220&section=header&text=BIJAY%20CHHETTRI&fontSize=46&fontColor=E8C766&fontAlignY=34&desc=Building%20systems%20from%20the%20Himalayas&descAlignY=52&descSize=15&descColor=8FD3F4&animation=twinkling" alt="header"/>
 
 <br/>
 
-### IT Engineering Student&nbsp; • &nbsp;Software Developer&nbsp; • &nbsp;AI & Full-Stack Enthusiast
+<a href="https://github.com/Bijayjr">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=8FD3F4&center=true&vCenter=true&width=650&lines=IT+Engineering+Student+%E2%80%A2+Software+Developer;Full-Stack+%2B+AI%2FML+%2B+Systems+that+connect+systems;Turning+ERP+data%2C+IoT+signals%2C+and+ideas+into+products;From+the+Himalayas+%F0%9F%87%A7%F0%9F%87%B9+%E2%80%94+shipping+one+system+at+a+time" alt="Typing SVG" />
+</a>
 
-*Somewhere between a compiler error and a mountain pass, I'm building things that work.*
-
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=E8C766)](https://portfollio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8FD3F4)](https://www.linkedin.com/in/bijay-chhettri-ab118a322)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E8C766)](mailto:bijayjrchhetri@gmail.com)
 [![Bhutan](https://img.shields.io/badge/Based_in-Bhutan_🇧🇹-0D1117?style=for-the-badge)]()
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=bijayjr&label=Profile%20Views&color=1B2838&style=flat-square&labelColor=0D1117" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Bijayjr?label=Followers&style=flat-square&color=1B2838&labelColor=0D1117" alt="followers"/>
+
 </div>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"></picture>
 
 ## &nbsp;🏔️&nbsp; About Me
 
+<img align="right" width="240" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="coding gif"/>
+
 I'm an IT Engineering student at the **College of Science and Technology (CST), Royal University of Bhutan**, and a developer who learns technologies by building with them rather than just reading about them.
 
-Most of my work sits at the intersection of **full-stack web development**, **AI/ML**, and **systems that connect to other systems** — role-based platforms, IoT pipelines, ERP integrations, and the occasional AR experiment when I want to see software step outside the screen. I like projects with real constraints: a schema that has to hold up, an access-control layer that has to be right, a dashboard someone will actually use.
+Most of my work sits at the intersection of **full-stack web development**, **AI/ML**, and **systems that connect to other systems** — role-based platforms, IoT pipelines, ERP integrations, and the occasional AR experiment when I want to see software step outside the screen.
 
-I'm not chasing every framework — I'm chasing the ones that let me ship something that works.
+I like projects with real constraints:
+- 🗂️&nbsp; a schema that has to hold up
+- 🔐&nbsp; an access-control layer that has to be right
+- 📊&nbsp; a dashboard someone will actually use
 
-<br/>
+I'm not chasing every framework — **I'm chasing the ones that let me ship something that works.**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-</picture>
+<br clear="right"/>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"></picture>
 
 ## &nbsp;⚙️&nbsp; Tech Stack
 
@@ -47,15 +54,15 @@ I'm not chasing every framework — I'm chasing the ones that let me ship someth
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,java,py,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=js,java,py,html,css,mysql&theme=dark" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=dark" />
 &nbsp;<img src="https://img.shields.io/badge/JSP-0D1117?style=flat-square&logo=java&logoColor=E8C766"/>
 &nbsp;<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=8FD3F4"/>
 
@@ -64,24 +71,24 @@ I'm not chasing every framework — I'm chasing the ones that let me ship someth
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma&theme=dark" />
 &nbsp;<img src="https://img.shields.io/badge/Neon-0D1117?style=flat-square&logo=neon&logoColor=8FD3F4"/>
 
 **AI / ML**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
 &nbsp;<img src="https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=E8C766"/>
 &nbsp;<img src="https://img.shields.io/badge/MediaPipe-0D1117?style=flat-square&logo=google&logoColor=8FD3F4"/>
 
 **Mobile / AR**
 
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
 &nbsp;<img src="https://img.shields.io/badge/ARCore-0D1117?style=flat-square&logo=googlecardboard&logoColor=E8C766"/>
 &nbsp;<img src="https://img.shields.io/badge/Jetpack_Compose-0D1117?style=flat-square&logo=jetpackcompose&logoColor=8FD3F4"/>
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux&theme=dark" />
 
 </td>
 </tr>
@@ -89,10 +96,7 @@ I'm not chasing every framework — I'm chasing the ones that let me ship someth
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"></picture>
 
 ## &nbsp;🧭&nbsp; Featured Work
 
@@ -110,7 +114,21 @@ Handles hostel and room management, booking periods, floor allocation, student r
 
 `Next.js` `Prisma` `PostgreSQL / Neon` `Role-Based Access Control` `Admin Dashboard`
 
-[`View Repository`](https://github.com/Ran501/CST_Hostel_Booking_System) &nbsp;|&nbsp; [`Live Demo`](https://hostel.cst.edu.bt/login)
+[![Repo](https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=8FD3F4)](https://github.com/Ran501/CST_Hostel_Booking_System)
+[![Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=flat-square&logo=vercel&logoColor=E8C766)](https://hostel.cst.edu.bt/login)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🏫&nbsp; RUB AFM Booking System
+
+A full-stack hostel room booking and management platform built for **[RUB AFM](https://afm.rub.edu.bt/)**, giving faculties a streamlined booking flow while counselors and administrators manage hostels, rooms, bookings, students, and reports through role-based dashboards.
+
+`Next.js` `Prisma` `PostgreSQL` `RBAC` `Authentication` `Dashboard`
+
+[![Repo](https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=8FD3F4)](https://github.com/Ran501/RUB-meets-Room-Booking-System)
 
 </td>
 </tr>
@@ -123,7 +141,8 @@ A Bhutan-focused rental and property discovery platform — built for a market m
 
 `Next.js` `React` `Tailwind CSS` `Leaflet` `Location-Based Search`
 
-[`View Repository`](YOUR_REPOSITORY_URL) &nbsp;|&nbsp; [`Live Demo`](YOUR_DEMO_URL)
+[![Repo](https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=8FD3F4)](YOUR_REPOSITORY_URL)
+[![Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=flat-square&logo=vercel&logoColor=E8C766)](YOUR_DEMO_URL)
 
 </td>
 </tr>
@@ -136,20 +155,21 @@ An intelligent monitoring system pairing a Raspberry Pi and camera module with a
 
 `Raspberry Pi` `Python` `TensorFlow` `Keras` `Computer Vision`
 
-[`View Repository`](YOUR_REPOSITORY_URL)
+[![Repo](https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=8FD3F4)](YOUR_REPOSITORY_URL)
 
 </td>
 </tr>
 <tr>
 <td width="100%">
 
-### 🏠&nbsp; RUB AFM Booking System
+### 📊&nbsp; ERP Analytics & AI Platform &nbsp;<sub>*(exploring)*</sub>
 
-A full-stack hostel room booking and management platform for **['RUB AFM'](https://afm.rub.edu.bt/)**, providing faculties with a streamlined booking experience while enabling counselors and administrators to efficiently manage hostels, rooms, bookings, students, and reports through role-based dashboards.
+An in-progress concept for a platform that connects to ERP systems like **Odoo**, pulls in operational data, and turns it into analytics dashboards with AI-assisted insight — currently focused on understanding dynamic ERP connectivity.
 
-`Next.js` `Prisma` `PostgreSQL` `RBAC` `Authentication` `Dashboard`
+`ERP Integration` `Odoo` `Data Warehousing` `Analytics Dashboards` `AI Insights`
 
-[`View Repository`](https://github.com/Ran501/RUB-meets-Room-Booking-System)
+[![Repo](https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=8FD3F4)](YOUR_REPOSITORY_URL)
+
 </td>
 </tr>
 <tr>
@@ -161,28 +181,25 @@ A set of augmented-reality explorations combining Android and spatial computing 
 
 `Kotlin` `ARCore` `Sceneform` `Jetpack Compose` `Cloud Anchors`
 
-[`View Repository`](YOUR_REPOSITORY_URL)
+[![Repo](https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=8FD3F4)](YOUR_REPOSITORY_URL)
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>Earlier work</b></summary>
+<summary><b>📁&nbsp; Earlier work</b></summary>
 <br/>
 
 **Blogging Platform** — A full-stack blogging platform from earlier Java web development, built with `JSP`, `Java Servlets`, `MySQL`, and `Bootstrap`.
 
-[`View Repository`](YOUR_REPOSITORY_URL)
+[![Repo](https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=8FD3F4)](YOUR_REPOSITORY_URL)
 
 </details>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"></picture>
 
 ## &nbsp;🔭&nbsp; Currently Building
 
@@ -192,20 +209,22 @@ A set of augmented-reality explorations combining Android and spatial computing 
 
 <div align="center">
 
-| | | |
-|:---:|:---:|:---:|
-| Odoo APIs & ERP Integration | Data Warehousing | Agentic AI |
-| Modern Backend Architecture | API Design | System Architecture |
-| Advanced JavaScript | Data Analytics | — |
+![Odoo](https://img.shields.io/badge/Odoo_APIs-1B2838?style=flat-square&logo=odoo&logoColor=8FD3F4)
+![ERP](https://img.shields.io/badge/ERP_Integration-1B2838?style=flat-square&logoColor=E8C766)
+![DW](https://img.shields.io/badge/Data_Warehousing-1B2838?style=flat-square&logoColor=8FD3F4)
+![Agentic](https://img.shields.io/badge/Agentic_AI-1B2838?style=flat-square&logoColor=E8C766)
+<br/>
+![Backend](https://img.shields.io/badge/Backend_Architecture-1B2838?style=flat-square&logoColor=8FD3F4)
+![API](https://img.shields.io/badge/API_Design-1B2838?style=flat-square&logoColor=E8C766)
+![SysDesign](https://img.shields.io/badge/System_Architecture-1B2838?style=flat-square&logoColor=8FD3F4)
+![JS](https://img.shields.io/badge/Advanced_JavaScript-1B2838?style=flat-square&logo=javascript&logoColor=E8C766)
+![Analytics](https://img.shields.io/badge/Data_Analytics-1B2838?style=flat-square&logoColor=8FD3F4)
 
 </div>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"></picture>
 
 ## &nbsp;📈&nbsp; GitHub Stats
 
@@ -216,14 +235,17 @@ A set of augmented-reality explorations combining Android and spatial computing 
 
 <img src="https://streak-stats.demolab.com/?user=bijayjr&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8FD3F4&fire=E8C766&currStreakLabel=E8C766" />
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bijayjr&theme=react-dark&bg_color=0D1117&color=8FD3F4&line=E8C766&point=E8C766&hide_border=true&area=true" alt="activity graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=bijayjr&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="trophies"/>
+
 </div>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"></picture>
 
 ## &nbsp;🪷&nbsp; Philosophy
 
@@ -232,10 +254,7 @@ A set of augmented-reality explorations combining Android and spatial computing 
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"></picture>
 
 ## &nbsp;📬&nbsp; Let's Connect
 
@@ -243,7 +262,7 @@ A set of augmented-reality explorations combining Android and spatial computing 
 
 | GitHub | LinkedIn | Portfolio | Email |
 |:---:|:---:|:---:|:---:|
-| [@bijayjr](https://github.com/Bijayjr) | [Bijay Chhettri](https://www.linkedin.com/in/bijay-chhettri-ab118a322) | [View Work](YOUR_PORTFOLIO_URL) | [Reach Out](mailto:bijayjrchhetri@gmail.com) |
+| [@bijayjr](https://github.com/Bijayjr) | [Bijay Chhettri](https://www.linkedin.com/in/bijay-chhettri-ab118a322) | [View Work](https://portfollio.vercel.app/) | [Reach Out](mailto:bijayjrchhetri@gmail.com) |
 
 </div>
 
@@ -253,4 +272,4 @@ A set of augmented-reality explorations combining Android and spatial computing 
 <sub>Building from the Himalayas, one system at a time. 🇧🇹</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2838,100:0D1117&height=100&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:14213D,70:1B2838,100:0D1117&height=110&section=footer" alt="footer"/>
