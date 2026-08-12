@@ -145,7 +145,7 @@ An intelligent monitoring system pairing a Raspberry Pi and camera module with a
 
 ### 🏠&nbsp; RUB AFM Booking System
 
-A full-stack hostel room booking and management platform for **['RUB AFM'](https://afm.rub.edu.bt/)**, providing students with a streamlined booking experience while enabling counselors and administrators to efficiently manage hostels, rooms, bookings, students, and reports through role-based dashboards.
+A full-stack hostel room booking and management platform for **['RUB AFM'](https://afm.rub.edu.bt/)**, providing faculties with a streamlined booking experience while enabling counselors and administrators to efficiently manage hostels, rooms, bookings, students, and reports through role-based dashboards.
 
 `Next.js` `Prisma` `PostgreSQL` `RBAC` `Authentication` `Dashboard`
 
