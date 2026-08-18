@@ -157,8 +157,9 @@ Features a fully animated 3D beverage experience with scroll-based transitions, 
 
 `Next.js` `Three.js` `React Three Fiber` `GSAP` `Tailwind CSS` `WebGL` `3D Animation` `Responsive Design`
 
-[![Repo](https://github.com/Bijayjr/beverage_3D.git)
-[![Demo](https://druk11000-git-main-bijayjrchhetri-gmailcoms-projects.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=8FD3F4)](https://github.com/Bijayjr/beverage_3D.git)
+[![Demo](https://img.shields.io/badge/Live_Demo-0D1117?style=flat-square&logo=vercel&logoColor=E8C766)](https://druk11000-git-main-bijayjrchhetri-gmailcoms-projects.vercel.app/)
+
 </td>
 </tr>
 <tr>
