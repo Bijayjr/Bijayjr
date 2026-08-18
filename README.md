@@ -62,8 +62,8 @@ I'm not chasing every framework — **I'm chasing the ones that let me ship some
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=dark" />
-&nbsp;<img src="https://img.shields.io/badge/JSP-0D1117?style=flat-square&logo=java&logoColor=E8C766"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" />
+&nbsp;<img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=6DB33F"/>
 &nbsp;<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=8FD3F4"/>
 
 </td>
