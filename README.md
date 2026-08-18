@@ -149,14 +149,16 @@ A Bhutan-focused rental and property discovery platform — built for a market m
 <tr>
 <td width="100%">
 
-### 👶&nbsp; IoT Baby Cradle Monitor
+### 🥤&nbsp; 3D Animated Beverage Landing Page
 
-An intelligent monitoring system pairing a Raspberry Pi and camera module with a computer-vision model — an experiment in where software ends and hardware begins.
+An immersive 3D landing page created for a modern beverage brand, combining interactive product visuals, smooth animations, and a bold, engaging visual identity.
 
-`Raspberry Pi` `Python` `TensorFlow` `Keras` `Computer Vision`
+Features a fully animated 3D beverage experience with scroll-based transitions, interactive product showcases, dynamic typography, floating elements, and a responsive layout designed to deliver a premium brand experience.
 
-[![Repo](https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=8FD3F4)](YOUR_REPOSITORY_URL)
+`Next.js` `Three.js` `React Three Fiber` `GSAP` `Tailwind CSS` `WebGL` `3D Animation` `Responsive Design`
 
+[![Repo](https://github.com/Bijayjr/beverage_3D.git)
+[![Demo](https://druk11000-git-main-bijayjrchhetri-gmailcoms-projects.vercel.app/)
 </td>
 </tr>
 <tr>
