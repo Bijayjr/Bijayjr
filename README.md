@@ -184,7 +184,7 @@ A set of augmented-reality explorations combining Android and spatial computing 
 
 `Kotlin` `ARCore` `Sceneform` `Jetpack Compose` `Cloud Anchors`
 
-[![Repo](https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=8FD3F4)](YOUR_REPOSITORY_URL)
+[![Repo](https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=8FD3F4)](https://github.com/Bijayjr/QuickNoteAR.git)
 
 </td>
 </tr>
