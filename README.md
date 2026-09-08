@@ -124,7 +124,7 @@ Handles hostel and room management, booking periods, floor allocation, student r
 
 ### 🏫&nbsp; RUB AFM Booking System
 
-A full-stack hostel room booking and management platform built for **[RUB AFM](https://afm.rub.edu.bt/)**, giving faculties a streamlined booking flow while counselors and administrators manage hostels, rooms, bookings, students, and reports through role-based dashboards.
+A full-stack hostel room booking and management platform built for **[RUB AFM](https://afm.rub.edu.bt/)**, giving faculties a streamlined booking flow while counselors and administrators manage hostels, rooms, bookings, and reports through role-based dashboards.
 
 `Next.js` `Prisma` `PostgreSQL` `RBAC` `Authentication` `Dashboard`
 
